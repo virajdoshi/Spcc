@@ -1,0 +1,6 @@
+void main()
+{
+	int jay = 3 , b = 4 , c ;
+	c = a + b ;
+	printf( "%d" , c ) ;
+}

@@ -1,0 +1,4 @@
+0	LOOP
+1	R1
+20	TWO
+24	FOUR
