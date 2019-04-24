@@ -6,4 +6,4 @@ while(i<20)
 
 //lex filename.l
 //gcc lex.yy.c -ll
-//a.out < input.txt
+//./a.out < input.txt
