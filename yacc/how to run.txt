@@ -1,0 +1,6 @@
+c502@22D50318:~/Desktop/viraj$ lex lexxx.l
+c502@22D50318:~/Desktop/viraj$ yacc -d lexxx.y
+c502@22D50318:~/Desktop/viraj$ gcc lex.yy.c y.tab.c
+c502@22D50318:~/Desktop/viraj$ ./a.out
+2*5+9/2
+14
