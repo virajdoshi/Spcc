@@ -55,7 +55,7 @@ int main()
     {
       lc=lc+0;
     }
-    else if(strcmp(m1,"BR")==0 || strcmp(m1,"DS")==0 || strcmp(m1,"DC")==0)
+    else if(strcmp(m1,"DS")==0 || strcmp(m1,"DC")==0)
     {
       lc=lc+4;
     }
