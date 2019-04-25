@@ -21,7 +21,7 @@ expr:
 
 void yyerror(char *s)
 {
-	fprintf(stdder,"%s\n",s);
+	fprintf(stderr,"%s\n",s);
 }
 int main(void)
 {
