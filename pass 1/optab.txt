@@ -3,3 +3,4 @@ A
 ST
 BNE
 BR
+\0
